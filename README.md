@@ -1,2 +1,2 @@
 # Dice
-A Silly Roll the Dice game written in Shell Script
+A Silly "Roll the Dice" game written in Shell Script

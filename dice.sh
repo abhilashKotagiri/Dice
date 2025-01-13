@@ -8,7 +8,7 @@ echo "    Created by \n
            Copyright
            "
 rollDice(){
-    min=2
+    min=1
     max=6
     num_random1=$((RANDOM % (max - min + 1) + min))
     num_random2=$((RANDOM % (max - min + 1) + min))
